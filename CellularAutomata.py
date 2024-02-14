@@ -16,8 +16,8 @@ viridis_colors = [
 ]
 
 # Screen/Pixel Sizes
-WIN_SIZE = 1280
-CELL_SIZE = 6  # Size of each cell in the grid
+WIN_SIZE = 720 # Size of the application (Change to simulate more, Gif is 1280)
+CELL_SIZE = 4  # Size of each cell in the grid (Change to simulate more, Gif is 6)
 GRID_SIZE = WIN_SIZE // CELL_SIZE
 
 
